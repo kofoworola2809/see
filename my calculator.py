@@ -10,3 +10,4 @@ print(f"Input the second number: {second_number}")
 sum_result = first_number + second_number  # Correct variable assignment
 print("\n...........Result..........:")  # print result header
 print(f"Sum: {sum_result}")  # print the actual result
+
